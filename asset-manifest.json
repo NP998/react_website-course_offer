@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react_website-course_offer/static/css/main.2b0a3194.chunk.css",
+    "main.js": "/react_website-course_offer/static/js/main.9ff544ea.chunk.js",
+    "main.js.map": "/react_website-course_offer/static/js/main.9ff544ea.chunk.js.map",
+    "runtime-main.js": "/react_website-course_offer/static/js/runtime-main.b4f9a002.js",
+    "runtime-main.js.map": "/react_website-course_offer/static/js/runtime-main.b4f9a002.js.map",
+    "static/css/2.3aeb5064.chunk.css": "/react_website-course_offer/static/css/2.3aeb5064.chunk.css",
+    "static/js/2.44c2b37c.chunk.js": "/react_website-course_offer/static/js/2.44c2b37c.chunk.js",
+    "static/js/2.44c2b37c.chunk.js.map": "/react_website-course_offer/static/js/2.44c2b37c.chunk.js.map",
+    "index.html": "/react_website-course_offer/index.html",
+    "static/css/2.3aeb5064.chunk.css.map": "/react_website-course_offer/static/css/2.3aeb5064.chunk.css.map",
+    "static/css/main.2b0a3194.chunk.css.map": "/react_website-course_offer/static/css/main.2b0a3194.chunk.css.map",
+    "static/js/2.44c2b37c.chunk.js.LICENSE.txt": "/react_website-course_offer/static/js/2.44c2b37c.chunk.js.LICENSE.txt",
+    "static/media/3.21ff75f2.jfif": "/react_website-course_offer/static/media/3.21ff75f2.jfif",
+    "static/media/d.2255a51f.jpg": "/react_website-course_offer/static/media/d.2255a51f.jpg",
+    "static/media/e.8fa71d6c.jpg": "/react_website-course_offer/static/media/e.8fa71d6c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4f9a002.js",
+    "static/css/2.3aeb5064.chunk.css",
+    "static/js/2.44c2b37c.chunk.js",
+    "static/css/main.2b0a3194.chunk.css",
+    "static/js/main.9ff544ea.chunk.js"
+  ]
+}
